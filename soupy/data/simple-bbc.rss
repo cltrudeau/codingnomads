@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>In Our Time</title>
+    <link>http://www.bbc.co.uk/programmes/b006qykl</link>
+    <description>Melvyn Bragg and guests discuss the history of
+        ideas
+    </description>
+    <language>en</language>
+    <item>
+      <title>John Clare</title>
+      <description>Melvyn and guests discuss the Northamptonshire poet John 
+          Clare.
+      </description>
+      <pubDate>Thu, 07 May 2020 09:15:00 +0000</pubDate>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08cdy83.mp3"
+      fileSize="47072000" type="audio/mpeg" medium="audio"
+      expression="full" duration="2942" />
+    </item>
+    <item>
+      <title>Carl Friedrich Gauss (repeat)</title>
+      <description>Melvyn guests discuss Gauss (1777-1855)
+      </description>
+      <pubDate>Thu, 30 Apr 2020 09:15:00 +0000</pubDate>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08b5hgb.mp3"
+      fileSize="47392000" type="audio/mpeg" medium="audio"
+      expression="full" duration="2962" />
+    </item>
+    <item>
+      <title>Wuthering Heights (repeat)</title>
+      <description>Melvyn and guests discuss Emily Bront&#195;&#171;
+      </description>
+      <pubDate>Thu, 23 Apr 2020 09:15:00 +0000</pubDate>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08b56yq.mp3"
+      fileSize="48096000" type="audio/mpeg" medium="audio"
+      expression="full" duration="3006" />
+    </item>
+    <item>
+      <title>Feathered Dinosaurs (repeat)</title>
+      <description>Melvyn and guests discuss the development of theories about
+      dinosaur feathers.
+      </description>
+      <pubDate>Thu, 16 Apr 2020 09:15:00 +0000</pubDate>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p089jn60.mp3"
+      fileSize="46064000" type="audio/mpeg" medium="audio"
+      expression="full" duration="2879" />
+    </item>
+    <item>
+      <title>Frankenstein</title>
+      <description> Melvyn and guests discuss Mary Shelley's (1797-1851)
+      Gothic story, Frankenstein. 
+      </description>
+      <pubDate>Thu, 19 Mar 2020 10:15:00 +0000</pubDate>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0871pdx.mp3"
+      fileSize="52944000" type="audio/mpeg" medium="audio"
+      expression="full" duration="3309" />
+    </item>
+    <item>
+      <title>Paul Dirac</title>
+      <description>Melvyn Bragg and guests discuss the theoretical
+      physicist Dirac (1902-1984).
+      </description>
+      <pubDate>Thu, 05 Mar 2020 10:15:00 +0000</pubDate>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p085qcg8.mp3"
+      fileSize="48752000" type="audio/mpeg" medium="audio"
+      expression="full" duration="3047" />
+    </item>
+  </channel>
+</rss>
