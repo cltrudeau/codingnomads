@@ -47,7 +47,7 @@ def print_children(children, depth):
 
 # BSoup can read from a string or a file handle to parse XML/HMTL
 with open('data/original-bbc-in-our-time.rss') as handle:
-    soup = BeautifulSoup(handle)
+    soup = BeautifulSoup(handle, 'xml')
 
 # Call the recursive method with all of the children of the root node
 print_children(soup.children, 0)
