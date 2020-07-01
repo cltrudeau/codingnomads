@@ -1,0 +1,122 @@
+<movies>
+  <movie>
+    <title>Amelie</title>
+    <country>France</country>
+    <director>
+      <lastname>Jeunet</lastname>
+      <firstname>Jean-Pierre</firstname>
+    </director>
+    <year>2001</year>
+    <description>
+      Amélie is an innocent and naive girl in Paris with her own sense of 
+      justice. She decides to help those around her and, along the way, 
+      discovers love. 
+    </description>
+  </movie>
+  <movie>
+    <title>Scanners</title>
+    <country>Canada</country>
+    <director>
+      <lastname>Cronenberg</lastname>
+      <firstname>David</firstname>
+    </director>
+    <year>1981</year>
+    <description>
+      A scientist sends a man with extraordinary psychic powers to hunt others 
+      like him.
+    </description>
+  </movie>
+  <movie>
+    <title>La Feme Nikita</title>
+    <country>France</country>
+    <director>
+      <lastname>Besson</lastname>
+      <firstname>Luc</firstname>
+    </director>
+    <year>1990</year>
+    <description>
+      Convicted felon Nikita, instead of going to jail, is given a new 
+      identity and trained, stylishly, as a top secret spy/assassin. 
+    </description>
+  </movie>
+  <movie>
+    <title>Strange Brew</title>
+    <country>Canada</country>
+    <director>
+      <lastname>Moranis</lastname>
+      <firstname>Rick</firstname>
+    </director>
+    <year>1983</year>
+    <description>
+      Canada's most famous hosers, Bob and Doug McKenzie, get jobs at the 
+      Elsinore Brewery, only to learn that something is rotten with the state 
+      of it.
+    </description>
+  </movie>
+  <movie>
+    <title>Y Tu Mama Tambien</title>
+    <country>Mexico</country>
+    <director>
+      <lastname>Cuaron</lastname>
+      <firstname>Alfonso</firstname>
+    </director>
+    <year>2001</year>
+    <description>
+      In Mexico, two teenage boys and an attractive older woman embark on a 
+      road trip and learn a thing or two about life, friendship, sex, and each 
+      other.
+    </description>
+  </movie>
+  <movie>
+    <title>A Fish Called Wanda</title>
+    <country>UK</country>
+    <director>
+      <lastname>Crichton</lastname>
+      <firstname>Charles</firstname>
+    </director>
+    <year>1988</year>
+    <description>
+      In London, four very different people team up to commit armed robbery, 
+      then try to doublecross each other for the loot. 
+    </description>
+  </movie>
+  <movie>
+    <title>The Full Monty</title>
+    <country>UK</country>
+    <director>
+      <lastname>Cattaneo</lastname>
+      <firstname>Peter</firstname>
+    </director>
+    <year>1997</year>
+    <description>
+      Six unemployed steel workers form a male striptease act. The women cheer 
+      them on to go for "the full monty" - total nudity. 
+    </description>
+  </movie>
+  <movie>
+    <title>Exotica</title>
+    <country>Canada</country>
+    <director>
+      <lastname>Egoyan</lastname>
+      <firstname>Atom</firstname>
+    </director>
+    <year>1994</year>
+    <description>
+      A man plagued by neuroses frequents the club Exotica in an attempt to 
+      find solace, but even there his past is never far away.
+    </description>
+  </movie>
+  <movie>
+    <title>The Sweater</title>
+    <country>Canada</country>
+    <director>
+      <lastname>Cohen</lastname>
+      <firstname>Sheldon</firstname>
+    </director>
+    <year>1980</year>
+    <description>
+      A French Canadian boy endures the terrible shame when he receives the 
+      hockey sweater of the wrong team.
+    </description>
+  </movie>
+</movies>
