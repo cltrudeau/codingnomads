@@ -1,6 +1,18 @@
 Turtle Exercises
 ================
 
+For an intro to Python Turtle:
+
+https://realpython.com/beginners-guide-python-turtle/
+
+The Python Turtle docs are here:
+
+https://docs.python.org/3/library/turtle.html
+
+And who is Clyde?
+
+https://cbselementary.fandom.com/wiki/Clyde
+
 First House
 -----------
 
