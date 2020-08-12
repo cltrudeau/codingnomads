@@ -54,3 +54,4 @@ Then "sys.argv[1]" would contain "data/join1.csv". Use this string to open
 the file. Read each line from the file, parse the X and Y co-ordinates from
 the line and use the points to draw what is contained in the file.
 
+There are four CSV files in the data folder you can use to draw pictures.
