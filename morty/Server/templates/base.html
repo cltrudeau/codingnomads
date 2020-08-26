@@ -1,0 +1,19 @@
+<html>
+<head>
+  <title>{{title|safe}}</title>
+ 
+</head>
+<body>
+  {% block content %}
+  {% endblock content %}
+
+  {% block footer %}
+    <br/>
+    <br/>
+    <hr/>
+    <a href="{% url 'all-images' %}">All Images</a>
+    &nbsp;
+    <a href="/admin/">Admin</a>
+  {% endblock footer %}
+</body>
+</html>

@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>{{title|safe}}</h1>
+
+{% for image in images %}
+  <h3>{{image.name}}</h3>
+
+  <img src="/static/{{image.filename}}">
+  <br/>
+  <a href="{% url 'single-image' image.id %}">View</a>
+{% endfor %}
+
+{% endblock content %}
