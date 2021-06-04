@@ -1,5 +1,5 @@
 beautifulsoup4==4.9.1
-Django==3.1
+Django==3.1.9
 django-awl==1.4.0
 pudb==2019.2
 requests==2.24.0
